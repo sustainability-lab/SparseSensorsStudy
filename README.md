@@ -1,14 +1,14 @@
 # SparseSensorsStudy
 
 ## Kolhapur
-![](kolhapur.png)
+![](images/kolhapur.png)
 
 ## Jabalpur
-![](jabalpur.png)
+![](images/jabalpur.png)
 
 ## Hyderabad
-![](hyderabad.png)
+![](images/hyderabad.png)
 
 ## Delhi
-![](delhi.png)
+![](images/delhi.png)
 
